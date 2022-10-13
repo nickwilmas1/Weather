@@ -19,7 +19,7 @@ Nick Wilmas
 [Weather deployment](https://nickwilmas1.github.io/Weather/)
 
 ## Image 
-![Alt text](https://i.gyazo.com/c8294bc4a5942f4c6f04f1de490033b3.png "Weather")
+![Alt text](https://i.gyazo.com/41c95851e9cbfab16614ad648e353def.png "Weather")
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
